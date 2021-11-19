@@ -1,0 +1,6 @@
+cask "google-chrome"
+cask "microsoft-teams"
+cask "pritunl"
+cask "slack"
+cask "skype-for-business"
+cask "webex-meetings"

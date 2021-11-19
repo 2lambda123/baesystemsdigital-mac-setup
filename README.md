@@ -41,5 +41,8 @@ git clone https://github.com/baesystemsai/mac-setup.git
 6. Run Brew
 
 ```
-${BREW_BINARY} bundle --file mac/Brewfile
+${BREW_BINARY} bundle --file mac-setup/Brewfile
+
+# If you're a developer, also run this
+${BREW_BINARY} bundle --file mac-setup/Brewfile.developer
 ```
