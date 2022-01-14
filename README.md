@@ -1,5 +1,11 @@
 # mac-setup
 
+## Prerequisites
+
+* MDM enrolled Mac
+
+---
+
 1. Set system architecture
 
 ```
