@@ -41,7 +41,7 @@ fi
 5. Clone this repository
 
 ```
-git clone https://github.com/baesystemsai/mac-setup.git
+git clone https://github.com/baesystemsdigitalintelligence/mac-setup.git
 ```
 
 6. Run Brew
